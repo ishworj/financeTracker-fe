@@ -7,7 +7,7 @@ The frontend of the Finance Tracker App is responsible for providing a user-frie
 
 ## Features
 - User-friendly interfaces for registration and login.
-- Dashboard displaying the user's current financial status.
+- Dashboard displaying the user's current financial status in charts.
 - Add, edit, or delete income and expense transactions.
 - Visual financial reports with charts.
 
